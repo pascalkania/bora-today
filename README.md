@@ -62,3 +62,20 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Contributing
+
+We welcome contributions to improve Bora Today! Here's how you can contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+5. Push to the branch (`git push origin feature/AmazingFeature`)
+6. Open a Pull Request
+
+Please ensure your code adheres to the existing style and that you've tested your changes before submitting a pull request.
+
+### Reporting Issues
+
+If you find a bug or have a suggestion for improvement, please open an issue on the GitHub repository. When reporting issues, please provide as much detail as possible, including steps to reproduce the problem and your environment details.

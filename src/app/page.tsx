@@ -12,6 +12,7 @@ import { GET, WeatherResponse } from "./api/weather/route";
 export default async function Index() {
   const weatherData = await GET();
   const json = await weatherData.json() as WeatherResponse[];
+
   return (
     <main className="bg-white text-black antialiased">
       <div className="container pt-6">
