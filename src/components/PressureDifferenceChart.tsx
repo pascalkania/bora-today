@@ -24,8 +24,6 @@ const PressureDifferenceChart = ({ data }: { data: WeatherResponse[] }) => {
     };
   });
 
-  console.log(chartData);
-
   return (
     <ResponsiveContainer width="100%" height="100%">
       <LineChart data={chartData}>
