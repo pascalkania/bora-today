@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="absolute w-full py-5 text-center">
+    <footer className="w-full py-5 text-center">
       <p className="text-balance text-sm leading-loose text-muted-foreground">
         Built by{" "}
         <a
